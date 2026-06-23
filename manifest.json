@@ -1,6 +1,6 @@
 {
-  "name": "SoundDash",
-  "short_name": "SoundDash",
+  "name": "Air",
+  "short_name": "Air",
   "description": "Personal Finance Dashboard",
   "start_url": "/",
   "display": "standalone",
